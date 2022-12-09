@@ -1,0 +1,29 @@
+{
+  "name": "@javajosh/deepid",
+  "version": "1.0.0",
+  "description": "One function one file deepId() returns 20 bytes of good entropy base64 encoded. Browser and node.",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "publish": "npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javajosh/deepId.git"
+  },
+  "keywords": [
+    "UUID",
+    "GUID",
+    "random",
+    "crypto",
+    "minimalist",
+    "nodeps"
+  ],
+  "author": "javajosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javajosh/deepId/issues"
+  },
+  "homepage": "https://github.com/javajosh/deepId#readme"
+}
